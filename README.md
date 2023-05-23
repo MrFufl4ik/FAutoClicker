@@ -9,9 +9,6 @@
 + Не нагружынный функцианал
 + Возможность менять настройки в рельном времени, без отключение кликера
 
-## Скриншот русской версии FAutoClicker
-![изображение](https://github.com/MrFufl4ik/FAutoClicker/assets/134383881/9b889b49-ecc9-4808-80de-37261ce63832)
-
 ## Как скачать?
 Программа работает только под Windows начиная с 7. Вы можите скачать готовый EXE файл, или скачать код и самостоятельно
 скомпилировать его в Visual Studio 2022.
@@ -29,9 +26,6 @@ The program provides the ability to select a bind on the autoclicker itself, sel
 + Virtually no CPU load
 + Unloaded functionality
 + Ability to change settings in real time, without turning off the clicker
-
-## Screenshot of the English version of FAutoClicker
-![изображение](https://github.com/MrFufl4ik/FAutoClicker/assets/134383881/7633701e-b878-4fd1-94cf-08b258accea2)
 
 ## How to download?
 The program works only under Windows starting from 7. You can download a ready-made EXE file, or download the code yourself
