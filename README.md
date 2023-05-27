@@ -1,6 +1,6 @@
 # Русский перевод / Russian translate
 ## Об FAutoClicker
-Данная маленькая программа весом всего 53 КБ, предоставляет вам лучший минималистичный Авто-Кликер написанный на C#.
+Данная маленькая программа весом всего 55 КБ, предоставляет вам лучший минималистичный Авто-Кликер написанный на C#.
 Программа предоставляет возможность выбор бинда на сам авто-кликер, выбор кнопки клика, стиля клика, а также скорости клика.
 
 ## Плюсы для пользователя
@@ -18,7 +18,7 @@
 
 # English Translate / Английский перевод
 ## About FAutoClicker
-This small program weighing only 53 KB provides you with the best minimalist Auto-Clicker written in C#.
+This small program weighing only 55 KB provides you with the best minimalist Auto-Clicker written in C#.
 The program provides the ability to select a bind on the autoclicker itself, select a click button, click style and click speed.
 
 ## Benefits for the user
