@@ -14,7 +14,7 @@
 скомпилировать его в Visual Studio 2022.
 
 ## Куда писать о баге?
-О баге вы можете сообщить мне в личные сообщение телеграмм [@MrFufl4ik](https://t.me/MrFufl4ik).(Дальше только для людей знающих русский) А также другие программы которые явялються не Open Source у меня в телеграмм канале [@FSoftware](https://t.me/FSoftwareProject).
+О баге вы можете сообщить мне в личные сообщение телеграмм [@MrFufl4ik](https://t.me/MrFufl4ik).
 
 # English Translate / Английский перевод
 ## About FAutoClicker
